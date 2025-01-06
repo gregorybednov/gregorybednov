@@ -15,15 +15,15 @@
 
 Plugins roadmap
 
-Language | .kt plugin | plugin.xml | tested | logo adapted | plugged v1.0.0 | autosurrounding () {} "" '' 
+Language | .kt plugin | plugin.xml | tested | logo adapted | bundled v1.0.0 | autosurrounding () {} "" '' 
 --- | --- | --- | --- | --- | --- | ---
-C/C++ | ✅ | ✅  | ✅  | ✅ | ❌ | ❌
+C/C++ | ✅ | ✅  | ✅  | ✅ | ✅ | ❌
 python | not needed
 java | not needed
 kotlin | not needed
 spring | via [plugin](https://explyt.com/download)
-mysql | ❌
-psql | ❌
+mysql | ❌ (sql via DBN)
+psql | ❌ (sql via DBN)
 go | ✅ | ✅  | ✅  | ✅ | ❌ | ❌
 rust | ✅ | ✅  | ✅  | ✅ | ❌ | ❌
 php | ⚠️
